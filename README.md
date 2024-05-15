@@ -11,7 +11,7 @@
   ⚛️ 📄 🚀
 </h3>
 <h3 align="center">
-  Fast in every way that matters
+Fork of Gatsby 2.23.3
 </h3>
 <p align="center">
   Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps
